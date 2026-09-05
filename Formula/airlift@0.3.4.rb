@@ -1,4 +1,4 @@
-class Airlift < Formula
+class AirliftAT034 < Formula
   desc "Prisma Risk upload utility"
   homepage "https://github.com/prisma-risk/homebrew-tools"
   license :cannot_represent
