@@ -5,23 +5,23 @@ class Airlift < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/prisma-risk/homebrew-tools/releases/download/airlift-v0.5.4/airlift-v0.5.4-aarch64-apple-darwin.tar.gz"
-      sha256 "1ae8a8a68768bea7146a00dc56e64be4dc468182831827ba4a39248d93d88661"
+      url "https://github.com/prisma-risk/homebrew-tools/releases/download/airlift-v0.6.0/airlift-v0.6.0-aarch64-apple-darwin.tar.gz"
+      sha256 "5195348d809ebd7aeb4182130b99d725a724cd38d622e3acd76b7b6c6044d93c"
     end
     on_intel do
-      url "https://github.com/prisma-risk/homebrew-tools/releases/download/airlift-v0.5.4/airlift-v0.5.4-x86_64-apple-darwin.tar.gz"
-      sha256 "d30587daf1af855a63c3b3a4f8332134e677e21d40253131e0f3f120833b8c2f"
+      url "https://github.com/prisma-risk/homebrew-tools/releases/download/airlift-v0.6.0/airlift-v0.6.0-x86_64-apple-darwin.tar.gz"
+      sha256 "764d0344a3f7670cd105509fc336f2c3ce08d277896d73d04883e210d06db04c"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/prisma-risk/homebrew-tools/releases/download/airlift-v0.5.4/airlift-v0.5.4-aarch64-unknown-linux-musl.tar.gz"
-      sha256 "05b18084478c5e460a6bc3f9dcec7ccfdcefb222f9df30e24e61bdf77ed35480"
+      url "https://github.com/prisma-risk/homebrew-tools/releases/download/airlift-v0.6.0/airlift-v0.6.0-aarch64-unknown-linux-musl.tar.gz"
+      sha256 "a9d02b71ae75959ca4d9589a8e679da54242782982d32c18fd8c06fc17387e3c"
     end
     on_intel do
-      url "https://github.com/prisma-risk/homebrew-tools/releases/download/airlift-v0.5.4/airlift-v0.5.4-x86_64-unknown-linux-musl.tar.gz"
-      sha256 "f17298d2be3cc253e16634289fe91d0ec6dd186f2d1e55792a802167c45033eb"
+      url "https://github.com/prisma-risk/homebrew-tools/releases/download/airlift-v0.6.0/airlift-v0.6.0-x86_64-unknown-linux-musl.tar.gz"
+      sha256 "2636939e67f82d10e672c8a77cb10722c67c6556c265ecec04b34913ed13b528"
     end
   end
 
